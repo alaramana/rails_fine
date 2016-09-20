@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
+* Database initialization sadf
 
 * How to run the test suite
 
@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+test message
